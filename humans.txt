@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sea Jay - @itsseajay
 
 # THANKS
 
-    <name>
+    James-Stephanie "Jim" Sterling
 
 # TECHNOLOGY COLOPHON
 
